@@ -1,0 +1,41 @@
+
+ li{
+  font-size:19px;
+  font-family:rockwell;
+}
+ol{
+  display: table;
+  margin: 0 auto;
+}
+pre{
+  font-size:15px;
+  color:rgb(255, 102, 153);
+  text-align:center;
+}
+body{
+  background-color:rgb(204, 255, 243);
+  text-align:center;
+}
+img{
+  border-color: #ccff66;
+  border-style: double;
+  border-width:5px;
+  
+}
+h1{
+  font-size:45px;
+  color:#00e673;
+  text-shadow: -2px 0 #1a1aff, 0 2px #1a1aff, 2px 0 #1a1aff, 0 -2px #1a1aff;
+}
+h2{
+  font-size:30px;
+  color:#ff66ff;
+  text-shadow: -1px 0 #660066, 0 1px #660066, 2px 0 #660066, 0 -2px #660066;
+}
+h3{
+  text-align:center;
+}
+a:hover {
+  color: #ff33ff;
+  background-color: transparent;
+  text-decoration: underline;
