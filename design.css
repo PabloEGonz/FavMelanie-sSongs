@@ -1,4 +1,6 @@
-
+html{
+  scroll-behavior: smooth;
+}
  li{
   font-size:19px;
   font-family:rockwell;
@@ -35,7 +37,11 @@ h2{
 h3{
   text-align:center;
 }
+p{
+  margin: 30px 100px 30px 100px;
+}
 a:hover {
   color: #ff33ff;
   background-color: transparent;
   text-decoration: underline;
+}
