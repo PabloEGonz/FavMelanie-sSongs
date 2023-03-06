@@ -19,9 +19,6 @@ body{
   background-color:rgb(180, 222, 212);
   text-align:center;
 }
-.songs{
-  content-visibility: auto;
-}
 img{
   border-color: #65d7e1;
   border-style: double;
